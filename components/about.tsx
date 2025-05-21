@@ -20,7 +20,7 @@ export default function About() {
 
           <div className="md:w-1/2 md:pl-12">
             <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">
-              Frontend Developer & DevOps Engineer
+              Backend Developer & DevOps Engineer
             </h3>
             <p className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
               Hello! I'm Satyam Tiwari, a passionate DevOps Engineer and frontend developer and I Love to 
